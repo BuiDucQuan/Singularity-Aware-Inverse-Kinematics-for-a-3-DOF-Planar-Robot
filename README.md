@@ -1,0 +1,1 @@
+# Singularity-Aware-Inverse-Kinematics-for-a-3-DOF-Planar-Robot
