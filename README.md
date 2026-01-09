@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3-DOF Planar Robot – Kinematics and Singularity Analysis
 
 ## Summary
@@ -65,3 +66,6 @@ python src/main.py
 
 
 
+=======
+# Singularity-Aware-Inverse-Kinematics-for-a-3-DOF-Planar-Robot
+>>>>>>> 5db6f761b74827467432d2fa729d74f5ce13fc19
